@@ -1,2 +1,2 @@
-# mostusedwords
-Aplicação desenvolvida com Vue.Js e Electronjs -- Cod3r
+# vue-projects
+Aplicações desenvolvidas com Vue.js
