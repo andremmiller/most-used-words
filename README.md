@@ -1,4 +1,4 @@
-# fresh-vue-project
+# most-used-words
 
 ## Project setup
 ```
